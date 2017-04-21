@@ -1,0 +1,67 @@
+body  {
+	margin: 0px;
+	font-size: 12px;
+	font-family: Verdana;
+	color : #FFFFFF;
+	background-color : #FF93C9;
+	background-image: url(../imagenes/fondo.jpg); 
+	background-position: top left;
+	background-repeat: repeat - y; 
+}
+.tablacentro{
+	background-image: url(../imagenes/fondotablacentro.jpg); 
+	background-position: top left;
+	background-repeat: repeat - y; 
+}
+a.mbrocos  {
+	text-decoration : none;
+	font-size: 12px;
+	font-family : verdana;
+	color : #FFFFFF;
+}
+a.mbrocos:hover  {
+	text-decoration : underline;
+	font-size: 12px;
+	font-family : verdana;
+	color : #AD0080;
+}
+a.brcmedia  {
+	text-decoration : none;
+	font-size: 12px;
+	font-family : verdana;
+	color : #6CFFFF;
+}
+a.brcmedia:hover  {
+	text-decoration : underline;
+	font-size: 12px;
+	font-family : verdana;
+	color : #AD0080;
+}
+a.brcenlaces  {
+	text-decoration : none;
+	font-size: 12px;
+	font-family : verdana;
+	color : #B7005B;
+}
+a.brcenlaces:hover  {
+	text-decoration : underline;
+	font-size: 12px;
+	font-family : verdana;
+	color : #FFFFFF;
+}
+table {
+	font-size: 12px;
+	font-family: Verdana;
+	color : #FFFFFF;
+}
+td {
+	font-size: 12px;
+	font-family: Verdana;
+	color : #FFFFFF;
+}
+
+th {
+	font-size: 12px;
+	font-family: Verdana;
+	color : #FFFFFF;
+}
